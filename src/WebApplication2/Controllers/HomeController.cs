@@ -10,6 +10,9 @@ namespace WebApplication2.Controllers
     {
         public IActionResult Index()
         {
+            Pomelo.Data.MySql.MySqlConnection con = new Pomelo.Data.MySql.MySqlConnection("");
+            
+
             return View();
         }
 

@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 
 // For more information on enabling MVC for empty projects, visit http://go.microsoft.com/fwlink/?LinkID=397860
 
-namespace WebApplication2.Controllers
+namespace dotnetcore_mvc1.Controllers
 {
     public class AdminController : Controller
     {
